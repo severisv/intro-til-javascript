@@ -16,4 +16,4 @@
 
 
 #Oppgaver rundt HTML og CSS
- + [Code School: HTML/CSS Foundations](https://www.codeschool.com/courses/front-end-foundations)
+ + [Code School: Frontend Foundations](https://www.codeschool.com/courses/front-end-foundations)
