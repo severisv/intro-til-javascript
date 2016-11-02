@@ -1,0 +1,34 @@
+
+body {
+    max-width: 40em;
+    margin: 0 auto;
+    transform: translateZ(0);
+}
+
+quote {
+    background-color: black;
+    font-size: 1.2em;
+    font-family: monospace;
+    border: 1px solid darkgray;
+    padding: 0.2em;
+    border-radius: 3px;
+    color: white;
+}
+
+
+
+button {
+    height: 3em;
+    width: 3em;
+    font-size: 1.75em;
+}
+
+input {
+    width: 15.6em;
+    height: 3em;
+    font-size: 1.75em;
+    margin-bottom: 0.1em;
+    text-align: right;
+    padding: 0 2em;
+    box-sizing: border-box;
+}

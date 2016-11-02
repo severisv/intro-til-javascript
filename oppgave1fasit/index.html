@@ -1,0 +1,60 @@
+<html class="themeDark">
+    <head>
+        <link rel="stylesheet" type="text/css" href="../felles/bekk.css">
+        <link rel="stylesheet" type="text/css" href="../felles/styles.css">
+    </head>
+    <body id="body">
+        <h3>
+            Funksjon i konsollen
+        </h3>
+        <ol>
+            <li>Trykk F12</li>
+            <li>Test konsollen litt ved å skrive litt JavaScript-kode, feks: <quote>console.log("hei")</quote> og <quote>2 + 2</quote></li>
+            <li>Lag en funksjon som skriver ut "hallo" og test den: <br/>
+                <quote>
+                    function hei() {
+                        console.log("hallo")
+                    }
+                </quote><br />
+                <quote>hei()</quote>
+                </li>
+        </ol>
+        <br />
+        <h3 id="header-2">
+            Manipuler innhold
+        </h3>
+        <ol>
+            <li>Hent ut overskriften over: <br />
+                <quote>var overskrift = document.getElementById("header-2")</quote><br />
+                <quote>overskrift.innerText = "Ny overskrift"</quote><br />
+            </li>
+            <li>
+                Hent ut bakgrunnen og gjør den blå med den forhåndsdefinerte funksjonen <quote>color</quote>
+                <br />
+                <quote>var bakgrunn = document.getElementById("body")</quote><br />
+                <quote>color(bakgrunn, "darkBlue")</quote>
+            </li>
+        <ol>
+            <br/>
+               <h3>
+            Funksjon i egen fil
+        </h3>
+        <ol>
+            <li>Åpne fila script.js i mappa oppgave1 i tekst-editoren</li>
+            <li>Koden i denne fila kjøres hver gang index.html lastes på nytt. Skriv ut noe med <quote>console.log("noe")</quote>
+            i script.js og last index.html på nytt i nettleseren (F5). Se i konsollen at det skrives ut.</li>
+            <li>
+                Lag en funksjon <quote>colorGreen</quote> som benytter hjelpefunksjonen
+                <quote>color</quote> og <quote>getBody</quote> til å gjøre bakgrunnen grønn.
+            </li>
+            <li>Test funksjonen du har laget i konsollen</li>
+            <li>Kjør funksjonen automatisk hver gang siden lastes</li>
+
+        </ol>
+            <br />
+        <h3 style="color: #262626;">
+            Gå til oppgave 2
+        </h3>
+    </body>
+    <script src="script.js"></script>
+</div>
