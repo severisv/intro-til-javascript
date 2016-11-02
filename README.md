@@ -1,5 +1,5 @@
 ##Anbefalte forkunnskaper:
- + [Code School: JavaScript Roadtrip (del 1 og del 2)](https://www.codeschool.com/learn/javascript)
+ + [Code School: JavaScript Road Trip (del 1 og del 2)](https://www.codeschool.com/learn/javascript)
  
 ##Anbefalte verktøy:
  + Tekst-editor: [VS Code](https://code.visualstudio.com)
