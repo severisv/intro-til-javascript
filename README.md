@@ -1,3 +1,3 @@
 ##Anbefalte verktøy:
- + [VS Code](https://code.visualstudio.com)
- + [Chrome](https://www.google.com/chrome)
+ + Tekst-editor: [VS Code](https://code.visualstudio.com)
+ + Nettleser: [Chrome](https://www.google.com/chrome)
