@@ -6,7 +6,7 @@
  + Nettleser: [Google Chrome](https://www.google.com/chrome)
 
 ##Kom igang:
- + Trykk 'Clone or download' til høyre ->
+ + Trykk 'Clone or download' til oppe høyre ->
  + Last ned som ZIP
  + Legg filene i ønsket mappe
  + Åpne mappa i VS Code
