@@ -1,3 +1,6 @@
+#Oppgaver rundt JavaScript i nettleseren
+ + [Code School: HTML/CSS Foundations](https://www.codeschool.com/courses/front-end-foundations)
+
 ##Anbefalte forkunnskaper:
  + [Code School: JavaScript Road Trip (del 1 og del 2)](https://www.codeschool.com/learn/javascript)
  
@@ -13,5 +16,5 @@
  + Åpne fila oppgave1/index.html i Chrome
 
 
-##Oppgaver rundt HTML og CSS
+#Oppgaver rundt HTML og CSS
  + [Code School: HTML/CSS Foundations](https://www.codeschool.com/courses/front-end-foundations)
