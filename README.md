@@ -11,3 +11,7 @@
  + Legg filene i ønsket mappe
  + Åpne mappa i VS Code
  + Åpne fila oppgave1/index.html i Chrome
+
+
+##Oppgaver rundt HTML og CSS
+ + [Code School: HTML/CSS Foundations](https://www.codeschool.com/courses/front-end-foundations)
