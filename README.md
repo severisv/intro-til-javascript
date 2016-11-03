@@ -1,8 +1,11 @@
-#Intro til JavaScript i nettleseren
-
-##Anbefalte forkunnskaper:
- + [Code School: JavaScript Road Trip (del 1 og del 2)](https://www.codeschool.com/learn/javascript)
+#Intro til JavaScript
+ + [Code Academy: Learn JavaScript](https://www.codecademy.com/learn/learn-javascript)
  
+#Intro til HTML og CSS
+ + [Code Academy: Learn html and css](https://www.codecademy.com/learn/learn-html-css)
+
+#JavaScript i nettleseren
+
 ##Anbefalte verktøy:
  + Tekst-editor: [VS Code](https://code.visualstudio.com)
  + Nettleser: [Google Chrome](https://www.google.com/chrome)
@@ -15,5 +18,3 @@
  + Åpne fila oppgave1/index.html i Chrome
 
 
-#Intro til HTML og CSS
- + [Code School: Frontend Foundations](https://www.codeschool.com/courses/front-end-foundations)
